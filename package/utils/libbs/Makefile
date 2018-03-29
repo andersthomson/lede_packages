@@ -6,7 +6,7 @@ PKG_RELEASE:=1
 
 PKG_BUILD_DIR:=$(BUILD_DIR)/libbs-$(PKG_VERSION)
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL=https://github.com/thejk/libbs.git
+PKG_SOURCE_URL=https://github.com/andersthomson/libbs.git
 PKG_SOURCE_VERSION=c59b0b44e29307335fd561ba954ac360d31c95f5
 PKG_MIRROR_HASH=650c9f946cef67b71a40cdddbfb6152daac70d1d54845755c003ad0214dc7f00
 PKG_FIXUP:=autoreconf
